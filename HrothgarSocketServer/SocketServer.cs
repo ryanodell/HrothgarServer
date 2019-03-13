@@ -12,6 +12,7 @@ namespace HrothgarSocketServer
 {
     public class SocketServer
     {
+        //Another comment for testing
         IPAddress mIp;
         int mPort;
         TcpListener mTCPListener;
@@ -26,7 +27,7 @@ namespace HrothgarSocketServer
         {
             mClients = new List<TcpClient>();
         }
-
+        
         public async void StartListeningForIncomingConnection(IPAddress ipaddr = null, int port = 23000)
         {
             if (ipaddr == null)
