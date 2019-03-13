@@ -14,9 +14,9 @@ namespace HrothgarServer
             server.StartListeningForIncomingConnection();
             while(true)
             {
-                //var input = Console.ReadLine();
-                //server.SendToAllPlayers(input);
-                Thread.Sleep(1000);
+                var input = Console.ReadLine();
+                server.SendToAllPlayers(input);
+                //Thread.Sleep(1000);
             }
         }
     }
