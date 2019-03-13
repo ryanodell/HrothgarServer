@@ -1,0 +1,12 @@
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\bin\Debug\netstandard2.0\Hrothgar.Models.deps.json
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\bin\Debug\netstandard2.0\Hrothgar.Models.dll
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\bin\Debug\netstandard2.0\Hrothgar.Models.pdb
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\obj\Debug\netstandard2.0\Hrothgar.Models.csproj.CoreCompileInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\obj\Debug\netstandard2.0\Hrothgar.Models.AssemblyInfoInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\obj\Debug\netstandard2.0\Hrothgar.Models.AssemblyInfo.cs
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\obj\Debug\netstandard2.0\Hrothgar.Models.dll
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\obj\Debug\netstandard2.0\Hrothgar.Models.pdb
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\bin\Debug\netstandard2.0\System.Numerics.Vectors.xml
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\obj\Debug\netstandard2.0\Hrothgar.Models.csprojAssemblyReference.cache
+C:\Repos\HrothgarServer\HrothgarServer\Hrothgar.Models\obj\Debug\netstandard2.0\Hrothgar.Models.csproj.CopyComplete

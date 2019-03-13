@@ -1,0 +1,16 @@
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\HrothgarServer.deps.json
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\HrothgarServer.runtimeconfig.json
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\HrothgarServer.runtimeconfig.dev.json
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\HrothgarServer.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\HrothgarServer.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\HrothgarSocketServer.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\HrothgarSocketServer.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\obj\Debug\netcoreapp2.2\HrothgarServer.csprojAssemblyReference.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\obj\Debug\netcoreapp2.2\HrothgarServer.csproj.CoreCompileInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\obj\Debug\netcoreapp2.2\HrothgarServer.AssemblyInfoInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\obj\Debug\netcoreapp2.2\HrothgarServer.AssemblyInfo.cs
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\obj\Debug\netcoreapp2.2\HrothgarServer.csproj.CopyComplete
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\obj\Debug\netcoreapp2.2\HrothgarServer.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\obj\Debug\netcoreapp2.2\HrothgarServer.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\Hrothgar.Models.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\Hrothgar.Models.pdb

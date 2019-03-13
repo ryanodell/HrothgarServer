@@ -1,0 +1,14 @@
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\bin\Debug\netcoreapp2.2\HrothgarBackend.deps.json
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\bin\Debug\netcoreapp2.2\HrothgarBackend.runtimeconfig.json
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\bin\Debug\netcoreapp2.2\HrothgarBackend.runtimeconfig.dev.json
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\bin\Debug\netcoreapp2.2\HrothgarBackend.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\bin\Debug\netcoreapp2.2\HrothgarBackend.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\obj\Debug\netcoreapp2.2\HrothgarBackend.csprojAssemblyReference.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\obj\Debug\netcoreapp2.2\HrothgarBackend.csproj.CoreCompileInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\obj\Debug\netcoreapp2.2\HrothgarBackend.RazorAssemblyInfo.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\obj\Debug\netcoreapp2.2\HrothgarBackend.RazorAssemblyInfo.cs
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\obj\Debug\netcoreapp2.2\HrothgarBackend.AssemblyInfoInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\obj\Debug\netcoreapp2.2\HrothgarBackend.AssemblyInfo.cs
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\obj\Debug\netcoreapp2.2\HrothgarBackend.RazorTargetAssemblyInfo.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\obj\Debug\netcoreapp2.2\HrothgarBackend.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarBackend\obj\Debug\netcoreapp2.2\HrothgarBackend.pdb

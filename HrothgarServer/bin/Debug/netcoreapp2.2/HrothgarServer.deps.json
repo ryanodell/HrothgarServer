@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "HrothgarServer/1.0.0": {
+        "dependencies": {
+          "HrothgarSocketServer": "1.0.0"
+        },
+        "runtime": {
+          "HrothgarServer.dll": {}
+        }
+      },
+      "Hrothgar.Models/1.0.0": {
+        "runtime": {
+          "Hrothgar.Models.dll": {}
+        }
+      },
+      "HrothgarSocketServer/1.0.0": {
+        "dependencies": {
+          "Hrothgar.Models": "1.0.0"
+        },
+        "runtime": {
+          "HrothgarSocketServer.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HrothgarServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Hrothgar.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HrothgarSocketServer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\bin\Debug\netstandard2.0\HrothgarSocketServer.deps.json
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\bin\Debug\netstandard2.0\HrothgarSocketServer.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\bin\Debug\netstandard2.0\HrothgarSocketServer.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\obj\Debug\netstandard2.0\HrothgarSocketServer.csprojAssemblyReference.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\obj\Debug\netstandard2.0\HrothgarSocketServer.csproj.CoreCompileInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\obj\Debug\netstandard2.0\HrothgarSocketServer.AssemblyInfoInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\obj\Debug\netstandard2.0\HrothgarSocketServer.AssemblyInfo.cs
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\obj\Debug\netstandard2.0\HrothgarSocketServer.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\obj\Debug\netstandard2.0\HrothgarSocketServer.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\bin\Debug\netstandard2.0\Hrothgar.Models.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\bin\Debug\netstandard2.0\Hrothgar.Models.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\obj\Debug\netstandard2.0\HrothgarSocketServer.csproj.CopyComplete
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\bin\Debug\netstandard2.0\System.Numerics.Vectors.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarSocketServer\bin\Debug\netstandard2.0\System.Numerics.Vectors.xml
