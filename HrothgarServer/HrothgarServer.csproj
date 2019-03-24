@@ -6,6 +6,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="2.2.3" />
+    <PackageReference Include="MySql.Data.EntityFrameworkCore" Version="8.0.15" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HrothgarData\HrothgarData.csproj" />
     <ProjectReference Include="..\HrothgarSocketServer\HrothgarSocketServer.csproj" />
   </ItemGroup>
 

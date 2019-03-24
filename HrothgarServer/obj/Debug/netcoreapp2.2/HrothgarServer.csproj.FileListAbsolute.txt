@@ -14,3 +14,5 @@ C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\obj\Debug\netcoreapp2.2\Hr
 C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\obj\Debug\netcoreapp2.2\HrothgarServer.pdb
 C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\Hrothgar.Models.dll
 C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\Hrothgar.Models.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\HrothgarData.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarServer\bin\Debug\netcoreapp2.2\HrothgarData.pdb

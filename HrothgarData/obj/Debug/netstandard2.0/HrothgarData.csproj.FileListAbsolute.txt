@@ -1,0 +1,9 @@
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarData\bin\Debug\netstandard2.0\HrothgarData.deps.json
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarData\bin\Debug\netstandard2.0\HrothgarData.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarData\obj\Debug\netstandard2.0\HrothgarData.csproj.CoreCompileInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarData\obj\Debug\netstandard2.0\HrothgarData.AssemblyInfoInputs.cache
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarData\obj\Debug\netstandard2.0\HrothgarData.AssemblyInfo.cs
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarData\bin\Debug\netstandard2.0\HrothgarData.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarData\obj\Debug\netstandard2.0\HrothgarData.dll
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarData\obj\Debug\netstandard2.0\HrothgarData.pdb
+C:\Repos\HrothgarServer\HrothgarServer\HrothgarData\obj\Debug\netstandard2.0\HrothgarData.csprojAssemblyReference.cache

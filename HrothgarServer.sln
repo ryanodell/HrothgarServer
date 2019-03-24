@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HrothgarSocketServer", "Hro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HrothgarBackend", "HrothgarBackend\HrothgarBackend.csproj", "{D8758D7A-BED4-429B-8E33-CB0EB7E59A9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hrothgar.Models", "Hrothgar.Models\Hrothgar.Models.csproj", "{ABCC47FD-C119-46F1-A6ED-610C9F9BAAB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hrothgar.Models", "Hrothgar.Models\Hrothgar.Models.csproj", "{ABCC47FD-C119-46F1-A6ED-610C9F9BAAB4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HrothgarData", "HrothgarData\HrothgarData.csproj", "{E427EE2D-5330-4BC8-8A22-931EFEF45B93}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{ABCC47FD-C119-46F1-A6ED-610C9F9BAAB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ABCC47FD-C119-46F1-A6ED-610C9F9BAAB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ABCC47FD-C119-46F1-A6ED-610C9F9BAAB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E427EE2D-5330-4BC8-8A22-931EFEF45B93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E427EE2D-5330-4BC8-8A22-931EFEF45B93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E427EE2D-5330-4BC8-8A22-931EFEF45B93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E427EE2D-5330-4BC8-8A22-931EFEF45B93}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
